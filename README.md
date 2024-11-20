@@ -1,6 +1,7 @@
 
 
 [Blinkit Dashboard](https://github.com/user-attachments/assets/b338e498-5094-46a9-83eb-e52929ea63f4)
+
 Objective:
 Designed and developed an interactive Power BI dashboard to analyze sales data across various item types, outlet types, and city tiers to support data-driven business decision-making.
 
